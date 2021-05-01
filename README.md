@@ -1,7 +1,7 @@
 👋 Hola extraño, Soy Hernan Bueno. Espero que estes muy bien!</br>
-Quiero contarte a vos que estas aca mirando lo que tengo realizado,</br>
-que, soy un desarrollador web en proceso, y que me gustaria aprender muchisimas tecnologias mas.</br>
-Pero aca te dejo un pequeño resumen de las que conozco aunque sea un poco:</br>
+Quiero contarte a vos que estas aca que</br>
+soy un desarrollador web en proceso.</br>
+Aca te dejo un pequeño resumen de las tecnologias que conozco:</br>
 👉 HTML5 </br>
 👉 CSS</br>
 👉 Javascript</br>
