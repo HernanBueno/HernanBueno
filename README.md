@@ -8,7 +8,7 @@ Aca te dejo un pequeño resumen de las tecnologias que conozco:</br>
 👉 React (solo un poco)</br>
 Y quiero seguir aprendiendo otras tecnologias como</br>
 ❗ VueJS 🔥 💥</br>
-❗ Python (ya que tiene infinidad de aplicaciones) 🔥 💥</br>
+❗ Python 🔥 💥</br>
 ❗ React Native 🔥 💥</br>
 y muchas tecnologias mas.</br></br>
 
