@@ -5,9 +5,11 @@ Aca te dejo un pequeño resumen de las tecnologias que conozco:</br>
 👉 HTML5 </br>
 👉 CSS</br>
 👉 Javascript</br>
+👉 ReactJS </br>
+👉 NodeJS </br>
 Y quiero seguir aprendiendo otras tecnologias como</br>
 ❗ Python 🔥 💥</br>
-❗ NodeJS 🔥 💥</br>
+❗ Golang 🔥 💥</br>
 y muchas tecnologias mas.</br></br>
 
 Espero que puedas encontrar lo que estas buscando,</br>
