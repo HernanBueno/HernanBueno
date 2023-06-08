@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hernan Bueno</h1>
 <h3 align="center">A fullstack developer from Argentina</h3>
 
-- 🌱 I’m currently learning **NextJS, NestJS**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **NodeJS, Express, React**
+- 💬 Ask me about **NodeJS, Express, NestJS, React, NextJS**
 
 - 📫 How to reach me **hernan.bueno@gmail.com**
 
