@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **NodeJS, Express, NestJS, React, NextJS**
+- 💬 Ask me about **NodeJS, Express, NestJS, React, NextJS, Adobe Experience Manager**
 
 - 📫 How to reach me **hernan.bueno@gmail.com**
 
